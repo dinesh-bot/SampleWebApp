@@ -6,7 +6,7 @@
 
     <display-name>Sample Web Application</display-name>
     <description>
-        This is a simple web application to demonstrate Jenkins build, test and deploy capabilities along with ANT.
+        This is a simple web application Project to demonstrate Jenkins build, test and deploy capabilities along with ANT.
     </description>
 
     <servlet>
